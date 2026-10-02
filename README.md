@@ -3,6 +3,14 @@
 Personal developer portfolio for **Doddi Navadeep Reddy**, Computer Science & Engineering student at REVA University.
 Inspired by the minimalist, editorial aesthetic and UX architecture of [Cian Goon's Developer Portfolio](https://www.ciangoon.dev/).
 
+🌐 **Live Website**: [https://doddinavadeepreddy.github.io/developer-portfolio/](https://doddinavadeepreddy.github.io/developer-portfolio/)
+
+---
+
+![Portfolio Preview](./public/preview.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Framework**: React 19 + TypeScript + Vite
@@ -41,4 +49,4 @@ npm run lint
 
 ## 🌐 Live Deployment
 
-Automatically deployed to GitHub Pages via GitHub Actions upon push to `main`.
+Automatically deployed to GitHub Pages via GitHub Actions on every push to `main`.
